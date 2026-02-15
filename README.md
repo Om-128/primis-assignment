@@ -45,12 +45,7 @@ project/
 - Identify department with highest average salary
 - Find employees joined in 2023
 - Export filtered results
-
-**Technologies Used:**
-- Python
-- csv / pandas
-- datetime
-
+  
 ---
 
 ## Task 2: REST API Integration
@@ -66,11 +61,6 @@ Features:
 - Create new post using POST request
 - Implement retry logic
 - Implement 5-minute file-based caching
-
-**Technologies Used:**
-- requests
-- JSON handling
-- Exception handling
 
 ---
 
@@ -93,12 +83,7 @@ Features:
 - borrow_book()
 - return_book()
 - display_available_books()
-
-**Concepts Covered:**
-- Classes & Objects
-- Encapsulation
-- State management
-
+  
 ---
 
 ## Task 4: SQL Queries
@@ -129,7 +114,7 @@ Identified and fixed issues including:
 ---
 
 ## How to Run
-
+```
 From project root:
 
 ```
@@ -147,4 +132,5 @@ pip install -r requirements.txt
 
 ```
 python -m tasks.task_file_name
+```
 ```
