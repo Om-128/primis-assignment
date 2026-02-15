@@ -1,5 +1,3 @@
-# Python Developer Assignment
-
 ## Overview
 
 This project was completed as part of a Python Developer assignment.  
