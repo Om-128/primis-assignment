@@ -114,7 +114,7 @@ Identified and fixed issues including:
 ---
 
 ## How to Run
-```
+
 From project root:
 
 ```
@@ -132,5 +132,4 @@ pip install -r requirements.txt
 
 ```
 python -m tasks.task_file_name
-```
 ```
